@@ -1,0 +1,23 @@
+.wrapper {
+    margin:0 auto;
+    padding:25px;;
+}
+#title {
+    text-align: center;
+    font-weight: bold;
+}
+#result {
+    font-size:30px;
+    font-weight:bold;
+    
+}
+input {
+    width:80%;
+    border-radius:5px;
+}
+.correct {
+    color:green;
+}
+.incorrect {
+    color:red;
+}
